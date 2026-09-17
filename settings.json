@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "74.50.78.125:26994",
-    "port": 26994,
+    "ip": "freeupmc.play.hosting",
+    "port": 25751,
     "version": "1.20.2",
     "try-creative": false
   },
